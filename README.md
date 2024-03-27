@@ -23,7 +23,7 @@ App giving the warning when you add above the 40 letters in input field
 
 
 
-when task is completed write click on right check button
+when task is completed click on right check button
 
 
 
